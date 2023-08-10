@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, Cmake, Arduino**
 
-- 💬 You can ask me about **C++ | C | Python | CV | Data Science**
+- 💬 You can ask me about **C++ | C | Python | CV | ML | Linux**
 
 - 📫 How to reach me --> **nikodem.panknin@gmail.com**
 

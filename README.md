@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikodem!</h1>
-<h3 align="center">A boy who is trying not to rm -rf</h3>
+<h3 align="center">$ alias vim='rm-rf'</h3>
 
-- 🌱 I’m currently learning **C++, Cmake, Arduino, OpenGL**
-
-- 💬 You can ask me about **C++ | C | Python | CV | ML | Linux**
+- 🌱 I’m currently learning **C++, Cmake, Boost, SQL**
 
 - 📫 How to reach me --> **nikodem.panknin@gmail.com**
 
